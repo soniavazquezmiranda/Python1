@@ -5,6 +5,18 @@ print (f"Hola, {nombre}! Me alegro conocerte")
 
 # SEGUNDO EJERCICIO
 
-nombre = input("nombre")
-nombre_upper = nombre.upper()
-print(nombre)
+nombre = input("escribe tu nombre:")
+nombre_mayuscula = nombre.upper()
+print(nombre_mayuscula)
+caracter = len(nombre)
+print (f"El nombre {nombre} tiene {caracter} caracteres")
+
+for i in range (caracter):
+    print(nombre)
+
+    
+
+# TERCER EJERCICIO
+
+
+
