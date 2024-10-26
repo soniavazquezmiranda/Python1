@@ -1,3 +1,0 @@
-def saludo();
-    print("hola")
-    
